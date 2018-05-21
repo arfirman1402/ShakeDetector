@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shake Detector</string>
+    <string name="shake_count_str">Shake Count = %d</string>
+</resources>
